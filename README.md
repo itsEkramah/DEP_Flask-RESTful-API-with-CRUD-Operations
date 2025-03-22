@@ -16,8 +16,7 @@ This project is a RESTful API built using Flask that allows you to perform CRUD 
 - **JWT (JSON Web Tokens)**: Used for user authentication.
 - **SQLite**: Lightweight database for storing user data.
 
-## Getting Started
-
+## Getting StarteD
 ### Prerequisites
 
 - Python 3.x
